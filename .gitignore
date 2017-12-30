@@ -13,7 +13,8 @@ scripts/dtc/.checks.o.cmd
 scripts/dtc/.data.o.cmd
 scripts/dtc/.dtc-lexer.lex.o.cmd
 scripts/dtc/.dtc-parser.tab.o.cmd
-scripts/dtc/.dtc.cmd
+scripts/dtc/.dtc.cmdboot.img-dtb
+
 scripts/dtc/.dtc.o.cmd
 scripts/dtc/.flattree.o.cmd
 scripts/dtc/.fstree.o.cmd
@@ -68,3 +69,5 @@ scripts/selinux/genheaders/genheaders
 scripts/selinux/mdp/.mdp.cmd
 scripts/selinux/mdp/mdp
 scripts/sortextable
+boot.img-dtb
+
