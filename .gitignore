@@ -70,4 +70,7 @@ scripts/selinux/mdp/.mdp.cmd
 scripts/selinux/mdp/mdp
 scripts/sortextable
 boot.img-dtb
+.version
+Module.symvers
+arch/arm/boot/zImage-dtb
 
