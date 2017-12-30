@@ -1,10 +1,35 @@
-        Linux kernel release 3.x <http://kernel.org/>
+SM-G550FY 7.1.1 Kernel - W.I.P
+
+I do not own this device, Kernel made by request.
+
+Suppose to boot 7.1.1 Firmware with J320A As BASE.
+
+Base :-
+
+-Exynos3475
+-Android 7.1.1
+-Permissive
+-Insecure
+-DE-knoxed
+
+Compile with GCC 4.8 ARM
+
+Sources used :-
+J320AUCU3BQI5
+G550FYDDU1BPH2
+---------------------------------------------------
+
+Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
 kernel, and what to do if something goes wrong. 
 
-WHAT IS LINUX?
+WHAT IS LINUX?ro.config.tima=0
+ro.security.vaultkeeper.feature=0
+ro.frp.pst=
+ro.securestorage.support=false
+ro.config.dmverity=false
 
   Linux is a clone of the operating system Unix, written from scratch by
   Linus Torvalds with assistance from a loosely-knit team of hackers across
