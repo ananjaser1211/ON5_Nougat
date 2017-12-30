@@ -16,3 +16,5 @@ make ARCH=arm -j4
 rm -rf $DTS/.*.tmp
 rm -rf $DTS/.*.cmd
 rm -rf $DTS/*.dtb
+# Make boot.img
+./makeimg.sh

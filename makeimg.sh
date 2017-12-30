@@ -10,8 +10,6 @@ echo "Copy Ramdisk"
 
 sudo cp -a /home/elite/Desktop/J3-ON5-NN/rf-tools/ramdisk/. /home/elite/Desktop/J3-ON5-NN/rf-tools/AIK-Linux/ramdisk
 
-	
-93ba4a5
 echo "copy split-img"
 
 sudo cp -a /home/elite/Desktop/J3-ON5-NN/rf-tools/split_img/. /home/elite/Desktop/J3-ON5-NN/rf-tools/AIK-Linux/split_img
