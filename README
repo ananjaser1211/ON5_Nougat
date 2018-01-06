@@ -1,5 +1,11 @@
-SM-G550FY 7.1.1 Kernel - W.I.P
+SM-G550FY 7.1.1 Kernel - Discontinued
 
+P.S.A : Samsung has relesaed Official 7.1.1 Nougat for the G550FY (very odd) So no more work left to be done here.
+
+I will keep this source here for anyone out there who might have intrest in Upgrading android versions on samsung phones.
+
+6 JAN 2018
+---------------------------------------------------
 I do not own this device, Kernel made by request.
 
 Suppose to boot 7.1.1 Firmware with J320A As BASE.
@@ -11,6 +17,7 @@ Base :-
 -Permissive
 -Insecure
 -DE-knoxed
+-Pass ART
 
 Compile with GCC 4.8 ARM
 
@@ -18,7 +25,6 @@ Sources used :-
 J320AUCU3BQI5
 G550FYDDU1BPH2
 ---------------------------------------------------
-
 Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
